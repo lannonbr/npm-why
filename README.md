@@ -1,3 +1,9 @@
+# Notice: Updated fork
+
+This is a fork of npm-why updating the packages as the old version has not been updated and pushed to npm in 3 years.
+
+To use run `npx lannonbr-npm-why <package_name>`. The rest of the docs by Amio still are valid
+
 # npm-why [![npm-version][npm-badge]][npm-link]
 
 Identifies why a package has been installed.
