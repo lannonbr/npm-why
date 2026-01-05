@@ -1,5 +1,5 @@
 {
-  "name": "@lannonbr/npm-why",
+  "name": "lannonbr-npm-why",
   "version": "6.0.0",
   "description": "Identifies why a package has been installed.",
   "main": "index.js",
